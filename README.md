@@ -8,7 +8,7 @@ Repositório onde apresentarei o site construido durante a <strong>Semana do zer
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-veja o projeto">Veja o projeto completo</a>
+  <a href="#-veja o projeto completo">Veja o projeto completo</a>
 <br>
 
 <p align="center">
@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-# 👀 Veja o projeto
+# 👀 Veja o projeto completo
 <p>
 <a href="https://kaysilvha.github.io/projeto_the_last_of_us/">Clique aqui</a> para conferir o projeto completo e com todas as animações!
 </p>
