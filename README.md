@@ -37,6 +37,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 <p>Site com o tema da série The Last of Us desenvolvido durante a <strong>Semana do zero ao programador</strong> oferecida pelo canal <a href="https://www.youtube.com/@DevemDobro">Dev em Dobro</a>!</p>
+<p>
+<video width="100%" height="240" autoplay>
+  <source src="video.webm" type="video/webm">
+Your browser does not support the video tag.
+</video>
+</p>
 
 <br>
 
