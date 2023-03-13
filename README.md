@@ -16,7 +16,7 @@ Repositório onde apresentarei o site construido durante a <strong>Semana do zer
 </p>
 
 
->🟡 Projeto em construção
+>🟢 Projeto finalizado
 
 > <strong>Deixa uma estrelinha?🙏⭐</strong>
 
