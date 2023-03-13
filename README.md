@@ -12,7 +12,7 @@ Repositório onde apresentarei o site construido durante a <strong>Semana do zer
 <br>
 
 <p align="center">
-  <img alt="Projeto interfacie" src="./src/imagens/projeto.jpeg" width="100%">
+  <img alt="Projeto interface" src="./src/imagens/projeto.jpeg" width="100%">
 </p>
 
 
